@@ -1,2 +1,1 @@
-# I4GxZuri-django
-zuri django project
+first zuri django project, everything is getting better
